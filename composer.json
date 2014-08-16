@@ -1,0 +1,8 @@
+{
+    "name": "chrisarmitage/dailyevents",
+    "autoload": {
+        "psr-0": {
+            "ChrisArmitage\\DailyEvents": "src"
+        }
+    }
+}

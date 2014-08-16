@@ -19,5 +19,4 @@ class DailyEvents
     public function retrieve($event, $clearRecords = false) {
         return $this->storageEngine->retrieve($event, $clearRecords);
     }
-
 }

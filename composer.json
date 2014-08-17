@@ -4,5 +4,8 @@
         "psr-0": {
             "ChrisArmitage\\DailyEvents": "src"
         }
+    },
+    "require": {
+        "mockery/mockery": "0.9.*@dev"
     }
 }
